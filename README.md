@@ -8,8 +8,8 @@
 ## App status
 Currently, ManuLibrary has the following functionalities:
 - **Book viewing:** Users can view the available books that are registered in the database.
-- ** Account creation:** Users can register a user with basic data such as name, email, password, phone number, grade, among others.
-- ** Loan simulation:** The application allows the loan of books by indicating the user's document number. Subsequently, an email is sent to the user with the details of the loan, including the date of delivery and the book requested.
+- **Account creation:** Users can register a user with basic data such as name, email, password, phone number, grade, among others.
+- **Loan simulation:** The application allows the loan of books by indicating the user's document number. Subsequently, an email is sent to the user with the details of the loan, including the date of delivery and the book requested.
 
 ---
 
