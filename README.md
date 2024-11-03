@@ -34,10 +34,10 @@ To install the program, follow the steps below:
 1. **Download the program:**
    - Clone the repository or download the files as a `.zip` file.
 
-2. Configure the database:** **Deploy the database.
+2. **Configure the database:** Deploy the database.
    - Deploy the `manulibrary.db` database on your localhost before starting the program (recommended to use phpmyadmin).
 
-3. Execute the installation file:** ** Run the installation file.
+3. **Execute the installation file:** Run the installation file.
    - Once all the files have been downloaded, run the `build.bat` file. This file will install all the necessary Node.js dependencies and deploy the services to the localhost, if desired.
 
 ---
